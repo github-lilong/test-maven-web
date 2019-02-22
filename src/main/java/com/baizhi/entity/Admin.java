@@ -51,6 +51,7 @@ public class Admin implements Serializable {
 
     public void asd() {
         System.out.println(123456);
+        System.out.println("snfjvnjn");
     }
 
 }
